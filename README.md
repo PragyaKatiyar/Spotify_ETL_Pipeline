@@ -2,8 +2,8 @@
 An etl pipeline to get data for further analysis. Performed Extraction , transformation and load process.
 
 
-##Architecture
-![Architecture Diagram](https://myoctocat.com/assets/images/base-octocat.svg)
+## Architecture
+![Architecture Diagram](https://github.com/PragyaKatiyar/Spotify_ETL_Pipeline/blob/main/SPOTIFY.jpg)
 
 Implement Complete Data Pipeline Data Engineering Project using Spotify
 
